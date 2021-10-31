@@ -1,4 +1,4 @@
-link : <https://dacon.io/competitions/official/235836/overview/description>
+link : <https://dacon.io/competitions/official/235836/leaderboard>
 
 ## Evaluation : MAE(Mean Absolute Error)
 
